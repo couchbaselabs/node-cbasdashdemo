@@ -2,6 +2,7 @@
   "name": "tsgraphs",
   "version": "1.0.0",
   "dependencies": {
+    "couchbase": "~2.2.4",
     "express": "~4.14.0",
     "uuid": "~2.0.3"
   }

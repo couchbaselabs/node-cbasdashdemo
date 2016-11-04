@@ -1,6 +1,6 @@
 'use strict';
 
-var couchbase = require('../couchsdk/node/');
+var couchbase = require('couchnode');
 var express = require('express');
 var uuid = require('uuid');
 

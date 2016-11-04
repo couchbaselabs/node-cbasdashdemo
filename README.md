@@ -20,7 +20,7 @@ npm install
 And finally run the application
 
 ```
-npm run
+npm start
 ```
 
 Finally our server will be running and available at:

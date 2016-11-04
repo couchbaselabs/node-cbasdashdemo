@@ -1,9 +1,13 @@
 {
   "name": "tsgraphs",
   "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "couchbase": "~2.2.4",
     "express": "~4.14.0",
     "uuid": "~2.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }

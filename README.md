@@ -8,7 +8,7 @@ In this example, we take advantage of the travel sample data-set that ships with
 To try out this demo, you simply need to clone the repository:
 
 ```
-git clone https://github.com/brett19/node-cbasdashdemo
+git clone https://github.com/couchbaselabs/node-cbasdashdemo
 ```
 
 Run `npm install` in our cloned directory:
